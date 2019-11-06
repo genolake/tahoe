@@ -1,0 +1,6 @@
+
+global-exclude *.py[cod] __pycache__ .DS_Store
+include version.py
+include requirements.txt
+
+recursive-include pileup/static *.*
